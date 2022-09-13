@@ -1,5 +1,5 @@
 # Siege-Cobby.github.io
-Manhine Learning Projects
+Machine Learning Projects
 
 👋 Hi, I’m Siegfried Sorkpor
 👀 I’m Passionate about building models that fix problems to change the world.
